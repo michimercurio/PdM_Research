@@ -1,2 +1,2 @@
 # PdM_Research
-Repository to Reproduce Thesis Results
+Repository to reproduce Thesis Results
